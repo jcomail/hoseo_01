@@ -7,3 +7,4 @@ int main() {
     printf("%d\n", rand()); // 난수 출력
     return 0;
 }
+ㅠㅗ포ㅗ
